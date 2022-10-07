@@ -87,7 +87,7 @@ const Portfolio = () => {
                                                 </div>
                                                 {/* End .portfolio-info */}
                                                 <div
-                                                    href={`img/portfolio/${val.img}.jpg`}
+                                                    href={`img/portfolio/${val.img}.png`}
                                                     className="gallery-link"
                                                 >
                                                     <img
