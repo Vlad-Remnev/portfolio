@@ -91,7 +91,7 @@ const Portfolio = () => {
                                                     className="gallery-link"
                                                 >
                                                     <img
-                                                        src={`img/portfolio/${val.img}.jpg`}
+                                                        src={`img/portfolio/${val.img}.png`}
                                                         alt={val.alterText}
                                                     />
                                                 </div>
