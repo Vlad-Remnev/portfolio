@@ -12,7 +12,7 @@ const About = () => {
               <div className="about-me">
                 <div className="img">
                   <div className="img-in">
-                    <img src="img/about/about-me.jpg" alt="about-me" />
+                    <img src="/img/about/contact.jpg" alt="contact-me" />
                   </div>
                   <Social />
                   {/* End social icon */}
@@ -31,16 +31,12 @@ const About = () => {
             <div className="col-lg-7 ml-auto">
               <div className="about-info">
                 <div className="title">
-                  <h3>Biography</h3>
+                  <h3>About Me</h3>
                 </div>
                 <div className="about-text">
                   <p>
-                    I'm a Freelancer Front-end Developer with over 1 year of working experience.
-                    I worked on various projects, using various technologies and libraries.
-                    My main work on a previous job was building different landings with help of
-                    HTML/CSS with JavaScript and Jquery. Now I finished my studies in React, and
-                    maid some projects with this technology, which opens many ways in managing and
-                    building big projects!
+                    I'm a  Frontend developer with a passion for technology and a keen sense of pride in the work I do.
+                    I'm focused on delivering high quality solutions to given timelines and constantly seeking to improve my skills
                   </p>
                 </div>
                 <div className="info-list">
