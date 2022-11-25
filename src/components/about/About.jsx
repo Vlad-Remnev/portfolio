@@ -12,7 +12,7 @@ const About = () => {
               <div className="about-me">
                 <div className="img">
                   <div className="img-in">
-                    <img src="/img/about/contact.jpg" alt="contact-me" />
+                    <img src="img/about/contact.jpg" alt="contact-me" />
                   </div>
                   <Social />
                   {/* End social icon */}
@@ -56,7 +56,7 @@ const About = () => {
                           <span>31 years</span>
                         </li>
                         <li>
-                          <label>Address: </label>
+                          <label>Location: </label>
                           <span>Tbilisi, Georgia</span>
                         </li>
                       </ul>
